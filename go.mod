@@ -1,3 +1,3 @@
-module studentgit.kata.academy/AngelinaSungatullina/mymath
+module github.com/linasungatullina/mymath
 
 go 1.21.1
